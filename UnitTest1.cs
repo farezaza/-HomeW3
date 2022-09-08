@@ -1,4 +1,4 @@
-namespace TestUI;
+namespace TestUnit;
 
 public class UnitTest1
 {
